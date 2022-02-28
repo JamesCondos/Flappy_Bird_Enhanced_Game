@@ -37,6 +37,7 @@ public class SteelPipe extends AbstractPipe {
             FLAME.drawFromTopLeft(topFlame.x, topFlame.y);
             FLAME.drawFromTopLeft(bottomFlame.x, bottomFlame.y, getROTATOR());
         } else {
+            
             flameOn = false;
         }
     }
