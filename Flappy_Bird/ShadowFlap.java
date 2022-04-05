@@ -9,7 +9,7 @@ import java.util.Random;
  * Skeleton Code for SWEN20003 Project 2, Semester 2, 2021
  *
  * Please fill in your name below
- * @author Bi Ho Shin (1086159)
+ * @author James Condos (1080595)
  *
  * Part of this code was modified from 'SWEN20003 Project 1 solutions' by Betty Lin
  *
